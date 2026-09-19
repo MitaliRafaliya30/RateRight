@@ -135,6 +135,16 @@ streamlit run app/streamlit_app.py
 
 ---
 
+## RateRight Assistant
+
+<p align="center">
+  <img 
+    src="images/RateRight_assistant.png" 
+    alt="RateRight Assistant"
+    width="100%"
+  />
+</p>
+
 ## Project structure
 
 ```
